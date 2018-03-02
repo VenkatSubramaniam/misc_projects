@@ -2,84 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a0028c9-fff2-4bb1-936f-2a1e64e1f7bf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/__init__.py" afterPath="$PROJECT_DIR$/pan_scrape/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/answers.csv" afterPath="$PROJECT_DIR$/pan_scrape/answers.csv" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/answers.txt" afterPath="$PROJECT_DIR$/pan_scrape/answers.txt" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha1.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha1.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_reader.py" afterPath="$PROJECT_DIR$/pan_scrape/captcha_reader.py" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_0.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_0.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_1.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_1.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_10.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_10.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_11.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_11.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_12.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_12.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_13.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_13.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_14.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_14.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_15.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_15.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_16.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_16.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_17.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_17.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_18.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_18.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_18.png" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_18.png" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_19.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_19.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_2.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_2.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_20.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_20.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_21.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_21.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_22.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_22.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_23.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_23.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_24.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_24.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_25.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_25.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_26.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_26.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_27.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_27.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_28.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_28.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_29.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_29.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_3.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_3.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_30.png" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_30.png" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_4.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_4.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_5.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_5.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_6.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_6.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_7.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_7.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_8.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_8.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_9.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_9.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_the_line.py" afterPath="$PROJECT_DIR$/pan_scrape/captcha_the_line.py" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/inverted_line.jpg" afterPath="$PROJECT_DIR$/pan_scrape/inverted_line.jpg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/line.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/line.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/line_less.jpg" afterPath="$PROJECT_DIR$/pan_scrape/line_less.jpg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/mystery.jpg" afterPath="$PROJECT_DIR$/pan_scrape/mystery.jpg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_0.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_0.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_1.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_1.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_10.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_10.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_11.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_11.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_12.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_12.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_13.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_13.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_14.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_14.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_15.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_15.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_16.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_16.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_17.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_17.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_18.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_18.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_18.png" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_18.png" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_19.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_19.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_2.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_2.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_20.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_20.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_21.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_21.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_22.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_22.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_23.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_23.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_24.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_24.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_25.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_25.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_26.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_26.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_27.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_27.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_28.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_28.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_29.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_29.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_3.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_3.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_30.png" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_30.png" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_4.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_4.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_5.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_5.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_6.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_6.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_7.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_7.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_8.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_8.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_9.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_9.jpeg" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/rekognize.py" afterPath="$PROJECT_DIR$/pan_scrape/rekognize.py" />
-      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/test.py" afterPath="$PROJECT_DIR$/pan_scrape/test.py" />
+      <change beforePath="$PROJECT_DIR$/_mac/git.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_mac/laf.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/baseRefactoring.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/codestyles/Default.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/colors.scheme.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/debugger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/editor.codeinsight.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/filetypes.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ide.general.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jdk.table.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/markdown.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project.default.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ui.lnf.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vcs.xml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -230,11 +166,6 @@
             </path>
             <path>
               <item name="misc_projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="misc_projects" type="462c0819:PsiDirectoryNode" />
-              <item name="pan_scrape" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="misc_projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -349,9 +280,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="58" width="1400" height="834" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
