@@ -1,7 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a0028c9-fff2-4bb1-936f-2a1e64e1f7bf" name="Default" comment="" />
+    <list default="true" id="7a0028c9-fff2-4bb1-936f-2a1e64e1f7bf" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/__init__.py" afterPath="$PROJECT_DIR$/pan_scrape/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/answers.csv" afterPath="$PROJECT_DIR$/pan_scrape/answers.csv" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/answers.txt" afterPath="$PROJECT_DIR$/pan_scrape/answers.txt" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha1.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha1.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_reader.py" afterPath="$PROJECT_DIR$/pan_scrape/captcha_reader.py" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_0.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_0.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_1.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_1.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_10.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_10.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_11.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_11.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_12.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_12.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_13.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_13.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_14.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_14.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_15.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_15.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_16.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_16.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_17.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_17.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_18.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_18.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_18.png" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_18.png" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_19.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_19.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_2.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_2.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_20.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_20.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_21.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_21.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_22.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_22.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_23.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_23.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_24.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_24.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_25.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_25.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_26.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_26.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_27.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_27.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_28.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_28.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_29.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_29.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_3.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_3.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_30.png" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_30.png" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_4.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_4.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_5.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_5.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_6.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_6.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_7.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_7.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_8.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_8.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_9.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_9.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/captcha_the_line.py" afterPath="$PROJECT_DIR$/pan_scrape/captcha_the_line.py" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/inverted_line.jpg" afterPath="$PROJECT_DIR$/pan_scrape/inverted_line.jpg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/line.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/line.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/line_less.jpg" afterPath="$PROJECT_DIR$/pan_scrape/line_less.jpg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/mystery.jpg" afterPath="$PROJECT_DIR$/pan_scrape/mystery.jpg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_0.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_0.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_1.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_1.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_10.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_10.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_11.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_11.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_12.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_12.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_13.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_13.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_14.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_14.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_15.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_15.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_16.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_16.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_17.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_17.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_18.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_18.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_18.png" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_18.png" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_19.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_19.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_2.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_2.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_20.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_20.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_21.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_21.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_22.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_22.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_23.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_23.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_24.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_24.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_25.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_25.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_26.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_26.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_27.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_27.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_28.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_28.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_29.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_29.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_3.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_3.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_30.png" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_30.png" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_4.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_4.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_5.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_5.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_6.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_6.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_7.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_7.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_8.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_8.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_9.jpeg" afterPath="$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_9.jpeg" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/rekognize.py" afterPath="$PROJECT_DIR$/pan_scrape/rekognize.py" />
+      <change beforePath="$PROJECT_DIR$/pan_captcha_reader/test.py" afterPath="$PROJECT_DIR$/pan_scrape/test.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,67 +91,47 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="rekognize.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pan_captcha_reader/rekognize.py">
+        <entry file="file://$PROJECT_DIR$/pan_scrape/rekognize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
+            <state relative-caret-position="450">
               <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readable_captcha_17.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_17.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="captcha1.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha1.jpeg">
+        <entry file="file://$PROJECT_DIR$/pan_scrape/captcha1.jpeg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="captcha_17.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_17.jpeg">
+        <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_17.jpeg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pan_captcha_reader/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-              <folding />
-            </state>
+      <file leaf-file-name="readable_captcha_13.jpeg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_13.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="answers.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pan_captcha_reader/answers.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readable_captcha_13.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_13.jpeg">
+      <file leaf-file-name="captcha_13.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_13.jpeg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="captcha_reader.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_reader.py">
+        <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_reader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="1335">
               <caret line="95" column="28" lean-forward="false" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
               <folding />
             </state>
@@ -80,22 +139,36 @@
         </entry>
       </file>
       <file leaf-file-name="captcha_the_line.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_the_line.py">
+        <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_the_line.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="108" column="40" lean-forward="false" selection-start-line="108" selection-start-column="40" selection-end-line="108" selection-end-column="40" />
+            <state relative-caret-position="450">
+              <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="answers.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pan_captcha_reader/answers.txt">
+        <entry file="file://$PROJECT_DIR$/pan_scrape/answers.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+            <state relative-caret-position="135">
+              <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="61" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="captcha_0.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_0.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readable_captcha_0.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_0.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -147,9 +220,19 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="misc_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="misc_projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="misc_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="misc_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="pan_scrape" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="misc_projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -158,7 +241,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -272,7 +354,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -305,277 +387,275 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_24.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_24.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_2.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_2.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_3.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_3.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_9.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_9.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_27.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_27.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_20.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_20.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_19.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_19.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_29.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_29.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_30.png">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_30.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_10.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_10.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_1.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_1.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_25.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_25.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_23.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_23.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_5.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_5.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_18.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_18.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_26.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_26.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_22.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_22.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_7.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_7.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_8.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_8.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_11.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_11.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_1.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_1.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_14.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_14.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_22.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_22.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_2.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_2.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_0.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_7.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_0.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_3.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_7.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/line.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_3.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/mystery.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/line.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/inverted_line.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/mystery.jpg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/line_less.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/inverted_line.jpg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_27.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/line_less.jpg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_15.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_27.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_16.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_15.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_18.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_16.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_12.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_18.png">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_11.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_12.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_8.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_13.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_6.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_11.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_8.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_6.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_reader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="95" column="28" lean-forward="false" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/answers.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_the_line.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="108" column="40" lean-forward="false" selection-start-line="108" selection-start-column="40" selection-end-line="108" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/answers.csv">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/answers.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_17.jpeg">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_17.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha1.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/captcha_samples/captcha_17.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/readable_captchas/readable_captcha_13.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/rekognize.py">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
+        <state relative-caret-position="285">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pan_scrape/rekognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pan_captcha_reader/test.py">
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha1.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_0.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_0.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pan_scrape/answers.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        <state relative-caret-position="135">
+          <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="61" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_the_line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1335">
+          <caret line="95" column="28" lean-forward="false" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_13.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pan_scrape/captcha_samples/captcha_17.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pan_scrape/readable_captchas/readable_captcha_13.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
