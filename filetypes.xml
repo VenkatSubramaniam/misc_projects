@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".answers.text.swp" type="PLAIN_TEXT" />
       <mapping pattern="last_checked" type="PLAIN_TEXT" />
+      <mapping pattern="test_itr_scraper" type="Python" />
     </extensionMap>
   </component>
 </application>
